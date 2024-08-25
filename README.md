@@ -1,4 +1,4 @@
-<h1>Hi there <img src="wave.svg" width="50" height="50" alt="wave"/></h1>
+<h1>Hi there <img src="wave.svg" width="80" height="80" alt="wave"/></h1>
 
 <!--
 **EzioMercer/EzioMercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
