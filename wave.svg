@@ -8,7 +8,7 @@
                 --transform-origin-y: 70%;
 
                 --start-angle: 0deg;
-                --end-angle: 0deg;
+                --end-angle: 90deg;
 
                 --translate-x: calc(var(--svg-size) / -4 + 10px);
                 --translate-y: calc(var(--svg-size) / 4 - 10px);
