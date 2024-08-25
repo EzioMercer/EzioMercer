@@ -1,12 +1,23 @@
-<svg fill="none" width="25" height="25" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="256" height="256" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <style>
+            :root {
+                --transform-origin-x: 70%;
+                --transform-origin-y: 70%;
+            
+                --start-angle: 0deg;
+                --end-angle: 90deg;
+            
+                --translate-x: -20%;
+                --translate-y: 20%;
+            }
+            
             @keyframes wave {
                 from {
-                    transform: translate(0%, 10%) rotate(0deg);
+                    transform: translate(var(--translate-x), var(--translate-y)) rotate(var(--start-angle));
                 }
                 to {
-                    transform: translate(0%, 10%) rotate(90deg);
+                    transform: translate(var(--translate-x), var(--translate-y)) rotate(var(--end-angle));
                 }
             }
 
@@ -15,12 +26,15 @@
                 width: 100%;
 
                 display: flex;
-                align-items: center;
+                justify-content: center;
+                align-items: flex-start;
 
-                line-height: 100%;
+                font-size: 150px;
+                line-height: 256px;
 
-                animation: wave 0.64s infinite linear alternate;
-                transform-origin: 50% 60%;
+                animation: wave .64s infinite linear alternate;
+                transform-origin: var(--transform-origin-x) var(--transform-origin-y);
+                transform: rotate(var(--end-angle)) translate(var(--translate-x), var(--translate-y));
             }
         </style>
 
