@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on navigation through my projects
+🔭 I’m currently working on [navigation](https://eziomercer.github.io) through my projects
 
 🌱 I’m currently learning programming :)
 
