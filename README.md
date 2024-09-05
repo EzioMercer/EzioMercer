@@ -27,7 +27,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EzioMercer&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💰 If you want to support me:
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/EzioMercer) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/EzioMercer) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/EzioMercer) [![Patreon](https://img.shields.io/badge/Become%20a%20patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/EzioMercer) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
